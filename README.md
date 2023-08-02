@@ -1,2 +1,2 @@
-# qa_quru_lesson3
+# qa_guru_lesson3
 homework for lesson 3
